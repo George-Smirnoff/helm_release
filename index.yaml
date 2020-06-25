@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  istio-cni:
+  - apiVersion: v1
+    created: "2020-06-25T11:15:14.478460136+03:00"
+    description: Helm chart for istio-cni components
+    digest: 8f60784b5f9e6e732cc10d9c74b40e95c1f603d25df7193c34df139a3c11907a
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio-cni
+    - istio
+    name: istio-cni
+    sources:
+    - http://github.com/istio/cni
+    urls:
+    - istio-cni-1.1.0.tgz
+    version: 1.1.0
+generated: "2020-06-25T11:15:14.477156157+03:00"
